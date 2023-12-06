@@ -11,4 +11,6 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   </div>
 `
 
+// blablabla
+
 searchedPokemon(document.querySelector<HTMLButtonElement>('#pokemonName')!)
